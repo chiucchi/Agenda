@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "835866297256",
+    "firebase_url": "https://agenda-6db52.firebaseio.com",
+    "project_id": "agenda-6db52",
+    "storage_bucket": "agenda-6db52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:835866297256:android:67337b722a4c6cb444d39d",
+        "android_client_info": {
+          "package_name": "com.chiucchi.agenda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "835866297256-bqibne4osp7oda6s51qrb8q6g2je0ggs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA18no8gLFX-Do9ZDgI5WCRn3sqenxdC5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "835866297256-bqibne4osp7oda6s51qrb8q6g2je0ggs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
